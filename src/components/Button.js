@@ -1,9 +1,9 @@
 import React from 'react';
-import styled from 'styled-components';
+import styled from 'styled-components/native';
 
 const Container = styled.TouchableOpacity`
     background-color : #3498db;
-    bored-radius : 15px;
+    border-radius : 15px;
     padding : 15px 30px;
     margin: 10px 0px;
     justify-content: center;
